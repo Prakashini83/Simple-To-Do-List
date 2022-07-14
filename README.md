@@ -31,7 +31,7 @@ npm run build
     +    git push heroku master    
 5. Your app is ready you can see all heroku steps on heroku's documentation.
 
-  My app on heroku: https://vue-todo-test.herokuapp.com/
+  My app on heroku: https://do-test.herokuapp.com/
 
 #### Github pages
 
