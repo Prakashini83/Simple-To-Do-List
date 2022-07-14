@@ -1,7 +1,7 @@
 # todo-app
 It is an easy project to practice the integration between vue, vuex and Element.ui. 
 
-###### Demo: https://oussamaalouat.github.io/vue-todo-app/
+###### Demo: https://prakashini.github.io/vue-todo-app/
 
 ## Project setup
 ```
@@ -64,7 +64,7 @@ git push -f git@github.com:OussamaAlouat/vue-todo-app.git master:gh-pages
 
 cd -
 ```
-2. vue.config.js --> Add this file to root's app. *(I decide put '/vue-todo-app' because is my github project name. You put there your github project name)*
+2. vue.config.js --> Add this file to root's app. *(I decide put '/To-do-app' because is my github project name. You put there your github project name)*
 ```javascript
 module.exports = {
     baseUrl: process.env.NODE_ENV === 'production'
