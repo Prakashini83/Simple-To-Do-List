@@ -1,7 +1,7 @@
 # todo-app
 It is an easy project to practice the integration between vue, vuex and Element.ui. 
 
-###### Demo: https://prakashini.github.io/vue-todo-app/
+###### Demo: https://prakashini.github.io/todo-app/
 
 ## Project setup
 ```
