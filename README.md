@@ -31,7 +31,7 @@ npm run build
     +    git push heroku master    
 5. Your app is ready you can see all heroku steps on heroku's documentation.
 
-  My app on heroku: https://do-test.herokuapp.com/
+  My app on heroku: https://to-do-test.herokuapp.com/
 
 #### Github pages
 
@@ -60,7 +60,7 @@ git commit -m 'deploy'
 # git push -f git@github.com:<USERNAME>/<USERNAME>.github.io.git master
 
 # if you are deploying to https://<USERNAME>.github.io/<REPO>
-git push -f git@github.com:OussamaAlouat/vue-todo-app.git master:gh-pages
+git push -f git@github.com:prakashini/todo-app.git master:gh-pages
 
 cd -
 ```
@@ -75,5 +75,5 @@ module.exports = {
 
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-![](https://img.shields.io/github/issues/OussamaAlouat/vue-todo-app.svg)
-![](https://img.shields.io/github/stars/OussamaAlouat/vue-todo-app.svg)
+![](https://img.shields.io/github/issues/prakashini/vue-todo-app.svg)
+![](https://img.shields.io/github/stars/prakashini/vue-todo-app.svg)
